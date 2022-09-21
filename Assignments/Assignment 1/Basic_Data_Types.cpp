@@ -16,4 +16,4 @@ int main() {
 }
 
 
-Link : https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/submissions/code/289860688
+// Link : https://www.hackerrank.com/challenges/c-tutorial-basic-data-types/submissions/code/289860688

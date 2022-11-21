@@ -30,13 +30,17 @@ class Queue{
 	}
 	
 	int size(){
-		cout<<"return the size of the queue\n";
+		cout<<"return the size of the queue\n";		
 		return 0;
 	}
 	
 	bool isEmpty(){
 		cout<<"returning if the queue is empty\n";
-		return true;
+		if(!q.empty()){
+			return false;
+		}else{
+			return true;
+		}
 	}
 };
 
